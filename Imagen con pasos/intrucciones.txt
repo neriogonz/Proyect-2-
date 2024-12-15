@@ -1,3 +1,0 @@
-Paso 1 : Ejecutar el script 
-Paso 2 : Dar clic al botón abrir BMP
-Paso 3 : Visualizar la imagen
